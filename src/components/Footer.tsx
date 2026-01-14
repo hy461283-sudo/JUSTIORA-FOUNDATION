@@ -14,7 +14,7 @@ export default function Footer() {
           <div className="flex-1 h-0.5 bg-gradient-to-l from-transparent to-[#d4a574] mx-4"></div>
         </div>
         <p className="text-gray-400 text-xs">
-          &copy; 2026 Justiora Foundation. All rights reserved.
+          &copy; Justiora Foundation. All rights reserved.
         </p>
       </div>
     </footer>
